@@ -1,0 +1,30 @@
+#img5{
+    background-image: url(empimg5.avif);
+    background-repeat: no-repeat;
+    height: 633px;
+  background-size: cover;
+} 
+
+.head{
+margin-left:542px ;
+margin-top: 30px;
+}
+
+.edit{
+    margin-left: 530px;
+    margin-top: 40px;
+}
+
+.editsubmit{
+    
+    background-color: rgb(250, 247, 247);
+}
+.submitbutton{
+    margin-left: 44px;
+    background-color: rgb(250, 247, 247);
+    width: 84px;
+}
+.des{
+    width: 190px;
+    height: 35px;
+}

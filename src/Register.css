@@ -1,0 +1,17 @@
+#img2{
+    background-image: url(empimg2.jpg);
+    height:666px ;
+    background-size:cover ;
+    margin-top: -33px;
+}
+.page{
+   padding-top: 50px;
+    margin-left: 550px;
+}
+.registerbutton{
+    margin-left: 43px;
+    color: aliceblue;
+}
+#h7{
+    font-weight: bold;
+}

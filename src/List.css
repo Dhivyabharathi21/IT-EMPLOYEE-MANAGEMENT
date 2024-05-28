@@ -1,0 +1,25 @@
+#img6{
+    background-image: url("empimg1.avif");
+    height: 1533px;
+    /* width: 1500px; */
+    background-repeat: no-repeat;
+  background-size: cover;
+} 
+
+.list{
+    margin-left: 430px;
+    margin-top: 20px;
+}
+
+.card{
+    margin-left: 90px;
+}
+
+.edit1{
+    margin-top:10px ;
+}
+
+.delete1{
+    margin-left: 20px;
+    margin-top:10px ;
+}

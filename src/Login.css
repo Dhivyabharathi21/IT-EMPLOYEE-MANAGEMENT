@@ -1,0 +1,24 @@
+ #img3{
+    background-image: url(empimg3.avif);
+  height: 630px;
+  background-size: cover;
+} 
+.loginpage{
+    padding-top: 100px;
+    margin-left: 700px;
+}
+.loginbutton{
+    margin-left: 85px;
+    color: aliceblue;
+}
+
+.loginemail{
+    width: 250px;
+}
+.loginpassword{
+    width: 250px;
+}
+.h7{
+    font-weight: bold;
+
+}

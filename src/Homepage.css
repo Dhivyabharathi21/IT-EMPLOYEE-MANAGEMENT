@@ -1,0 +1,23 @@
+#empimg1{
+  background-image: url(empimg6.jpg);
+  height: 633px;
+  background-size: cover;
+}
+ .heading{
+padding-top: 185px;
+ margin-left: 533px;
+ font-weight: bold;
+ }
+
+.backround{
+margin-top: 80px;
+margin-left: 640px;
+}
+
+.register{
+  font-weight: bold;
+}
+.login{
+  width: 99px ;
+  font-weight:bold;
+}

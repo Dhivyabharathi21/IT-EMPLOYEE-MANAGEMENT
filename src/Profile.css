@@ -1,0 +1,14 @@
+#img7{
+    background-image: url("empimg7.avif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 633px;
+} 
+#box{
+    margin-top: 200px;
+}
+.box{
+    padding-top: 585px;
+    text-align: center;
+    height: 220px;
+}
